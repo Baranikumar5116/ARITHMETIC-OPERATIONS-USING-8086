@@ -57,12 +57,10 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
-|                         |                          |
-|                         |                          |
-|                         |                          |
-|                         |                          |
-|                         |                          |
+|          2000           |                          |
+|          2001           |                          |
+|          2002           |                          |
+|          2003           |                          |
  
 #### Manual Calculations
 
@@ -225,6 +223,9 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+
+<img width="644" height="433" alt="image" src="https://github.com/user-attachments/assets/3d7f56f1-9b56-489b-8a2b-e50a85b6e08e" />
+
 
 
 
